@@ -1,6 +1,7 @@
 // input confirms data on release date and poster and stuff like that
 // in a JSON object
 // css class use Class Name
+import "../css/MovieCard.css";
 
 function MovieCard({movie}){
 
